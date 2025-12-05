@@ -39,7 +39,9 @@
   - Organized criminals
   - Service enablers 
   - Malware producers
-  - Victums 
+  - Victums
+  - Money Mules
+    - Mules for hire 
 - Kevin Mitnick
 - Denial of Serice
   - Botnet, DDoS (distributed)
@@ -52,8 +54,50 @@
 - Botnets
   - Botmaster
     - Encrypted connection
-    - Disgusied as normal traffic
+    - CC Servers
     - Zombies
+      - Domain generation algorithms
+  - Zeus
+    - Build kit, leaked in 2010
+    - RAT, remote access trojan
+    - Steal online credentials 
+    - Citadel
+    - Ice IX
+    - GOZeus (Game over)
+- Windows
+  - Cloaking
+  - Alternative data streams
+  - MS-DOS
+  - NTFS
+    - `$DATA`
+    - Hidden history directory
+    - `dir /ah`
+    - `type desktop.ini`
+    - `type con: >`
+    - `dir [filename] /r`
+  - Windows processes
+    - Keypress callback routine
+    - Keyboard hook callback routine
+    - Keylogger C++
+      -  Output intercept.txt
+      -  Callback procedure
+      -  Callnexthook
+    - Task manager
+      -  EPROCESS module, doubly linked list data structure
+- Root Kits
+  - OS malware
+    - Penetrate
+    - Dropper
+    - Checks if already installed
+    - Checks if running in vm
+    - Checks country
+    - Bypasses intrusion detection
+    - OS Kernel
+      - Windows DDK, driver developer kit 
+      - Deep kernel development, Ring 0
+  - TDL3, trojan downloader 3
+    - Dogma millions cybercrime group
+    - Printer driver 
 
 ## Twitch Channels 
 
