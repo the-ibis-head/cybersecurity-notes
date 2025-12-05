@@ -261,6 +261,18 @@
       - Response to issues
       - Maintain risk documentation
       - Report regularly secuaity privacy posture
+- COBIT
+  - Control objectives for IT
+  - ISACA
+  - Fincial industry
+  - Core model
+    - Evaluate, direct, monitor
+    - Align, plan, organize
+      - APO13, managed secruity
+    - Build, Acquire, implement
+    - Deliver, service, support
+      - DSSOS5, managed security services
+    - Monitor, evaluate, Assess
 
 ## Twitch Channels 
 
