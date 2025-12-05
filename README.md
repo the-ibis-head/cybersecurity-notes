@@ -1,2 +1,37 @@
 # Cybersecurity
 > Notes on cybersecurity research and training
+
+- [Become a Cybersecurity Professional](https://www.linkedin.com/learning/paths/become-a-cybersecurity-professional)
+
+## Cybersecurity Foundations
+
+- [Cybersecurity Foundations](https://www.linkedin.com/learning/cybersecurity-foundations-22006082)
+- [Malcolm Shore](https://www.linkedin.com/in/malcolm-shore-046aa410/)
+- The internet is an essential service, so cybersecurity is/should be a requirement for everyone
+- Cybersecurity frameworks and standards 
+  - ISACA
+  - COBIT
+  - NIST, recover, identity, respond, detect, protect
+- Intelligence Driven Computer Network Defense, Lockheed Martin Corp 
+- Cyber Kill Chain
+  - Reconnaissance
+    - Find target and define its characteristics
+    - Internet domain
+      - IP scan, Port scan
+      - Botnets, scans at scale 
+  - Weaponization
+    - Known vulnerabilities, customized for target
+    - Malware, infected documents, self install software
+    - Phishing, comprimised website
+    - Default logins, stolen credentials
+    - Exposed software 
+    - Flash drive 
+  - Delivery
+  - Explotation
+    - Attachment, browser, service protocol, stolen credentials  
+  - Installation
+    - Payload in memory or hard drive
+    - Registry entry on windows
+    - Ongoing access 
+  - Command And Control
+  - Action
