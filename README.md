@@ -35,6 +35,33 @@
     - Ongoing access 
   - Command And Control
   - Action
+- Cybercrime
+  - Organized criminals
+  - Service enablers 
+  - Malware producers
+  - Victums 
+- Kevin Mitnick
+- Denial of Serice
+  - Botnet, DDoS (distributed)
+  - Global Attack, Feb 2014
+- Ecommerce
+  - Credit card targets
+  - Data breaches
+  - PCI held businesses accountable
+- State attacks
+- Botnets
+  - Botmaster
+    - Encrypted connection
+    - Disgusied as normal traffic
+    - Zombies
+
+## Twitch Channels 
+
+## Slack Channels 
+
+## Discord Servers
+
+## Subreddits
 
 ## Software Engineering Daily Podcast Episodes
 
