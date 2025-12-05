@@ -106,7 +106,25 @@
       - DKOM, direct kernel object modification
   - TDL3, trojan downloader 3
     - Dogma millions cybercrime group
-    - Printer driver 
+    - Printer driver
+- Phishing
+  - Enticing victum
+  - Attachment, hyperlinks
+  - Spear phishing, from colleage or within company
+  - Vishing, voip
+- Waterhole attacks
+  - Trusted by groups
+- APT, advanced, persistent threat
+  - Logbook
+  - Political, military targets
+  - Multiple vectors
+  - Customized malware, multithreaded capabilities, low and slow method
+  - Espionage
+  - Reignition, system restart, removal
+  - Cloaking, low and slow
+  - Exflitation, steal data, ignored packets
+  - Command and control, updates
+  - Process injection
 
 ## Twitch Channels 
 
