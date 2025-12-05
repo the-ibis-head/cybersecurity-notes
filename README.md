@@ -155,6 +155,69 @@
       - C, discretionary (C1-C3)
       - B, mandatory (B1-B3)
       - A, verified (A1)
+  - EU Cyber Direct
+    - Seoul framework, open, secure cyberspace
+  - NIST
+    - CSF, cybersecurity framework
+    - Links to control standards
+      - COBIT
+      - IEC 62443
+      - ISO 27000
+      - SP 80053
+    - Core
+      - 6 Activities, 22 Categories
+      - Govern
+      - Identify
+      - Protect
+      - Detect
+        - Continuous monitoring, adverse even analysis
+      - Respond
+      - Recover
+    - Tiers
+      - Implementation tiers
+        - Partial
+        - Risk informed
+          - Identiy business outcomes
+          - understand threats, vunerabilities
+          - Create current profile
+          - Conduct risk assessment
+          - Create target profile
+        - Repeatable
+        - Adaptive
+    - Profile
+      - Business activities, cybersecurity activities
+      - Current risk profile
+        - Security plan
+          - Target risk plan
+- NIST SP 800-30
+  - Guide for conducting risk assessments
+  - ISO 27005 Information security risk management
+- Threat intelligence
+  - ATT&CK, mitre resilience framework
+    - Matrix for enterprise
+  - Exploit DB
+  - Malware Analysis Report
+- Risk Treatments
+  - Risk acceptance
+  - Risk avoidence (stop activty)
+  - Risk transfer (insurance)
+  - Risk mitigation (implement controls)
+- Risk register
+  - Manual, automatem spreadsheet
+    - Example
+      - Malware infection
+        - Root cause
+        - Consequence
+- Risk heatmap
+  - Bubble chart
+  - Likelihood
+    - 5 levels
+      - Almost certain
+      - Likily
+      - Possible
+      - Unlikily
+      - Rare
+  - Impact
 
 ## Twitch Channels 
 
