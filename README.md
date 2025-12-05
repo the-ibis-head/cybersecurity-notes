@@ -125,6 +125,18 @@
   - Exflitation, steal data, ignored packets
   - Command and control, updates
   - Process injection
+- Ransomware
+  - CISA
+  - HIVE Ransomware Group
+    - Targeted healthcare industry
+  - Encrypts file storage
+  - Asymetric encryption, RSA
+  - Cryptolocker, 2013
+    - Torrentlocker
+    - Cryptowall
+  - Demands in bitcoin
+- Cyrptomining
+  - Run calculations, get small transactions 
 
 ## Twitch Channels 
 
