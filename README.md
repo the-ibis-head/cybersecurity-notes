@@ -137,6 +137,24 @@
   - Demands in bitcoin
 - Cyrptomining
   - Run calculations, get small transactions 
+- Rainbow Series
+  - Information security
+  - Design for secure computer 
+  - Orange book
+    - Bell-LaPadula model
+    - Reference Monitor
+      - Enforces access control
+      - Tamper proof, mandatory validation
+      - Small enough to test 
+    - Security Model
+    - Trusted Computing Base, TCB
+    - Required Testing  
+  - Assurance levels
+    - Divisions
+      - D, minimal protection (D1)
+      - C, discretionary (C1-C3)
+      - B, mandatory (B1-B3)
+      - A, verified (A1)
 
 ## Twitch Channels 
 
