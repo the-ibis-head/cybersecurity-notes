@@ -1,6 +1,7 @@
 # Cybersecurity
 > Notes on cybersecurity research and training
 
+- [Google Cybersecurity Certificate](https://grow.google/enroll-certificates/cybersecurity-mid/)
 - [Become a Cybersecurity Professional](https://www.linkedin.com/learning/paths/become-a-cybersecurity-professional)
 - [Complete Guide to Cybersecurity A Practical Approach](https://www.linkedin.com/learning/complete-guide-to-cybersecurity-a-practical-approach)
 - [Cybersecurity Awareness Cybersecurity Terminology](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology)
@@ -8,6 +9,7 @@
 - [Cybersecurity Foundations Governance Risk and Compliance](https://www.linkedin.com/learning/cybersecurity-foundations-governance-risk-and-compliance-grc-2023)
 - [Cybersecurity Foundations](https://www.linkedin.com/learning/cybersecurity-foundations-22006082)
 - [Cybersecurity Linkedin Skill Assessment](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/cybersecurity/cybersecurity-quiz.md)
+- [Wikipedia Computer security](https://en.wikipedia.org/wiki/Computer_security)
 
 ## Cybersecurity Foundations
 
