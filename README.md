@@ -2,6 +2,12 @@
 > Notes on cybersecurity research and training
 
 - [Become a Cybersecurity Professional](https://www.linkedin.com/learning/paths/become-a-cybersecurity-professional)
+- [Complete Guide to Cybersecurity A Practical Approach](https://www.linkedin.com/learning/complete-guide-to-cybersecurity-a-practical-approach)
+- [Cybersecurity Awareness Cybersecurity Terminology](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology)
+- [Cybersecurity Foundations Computer Forensics](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics)
+- [Cybersecurity Foundations Governance Risk and Compliance](https://www.linkedin.com/learning/cybersecurity-foundations-governance-risk-and-compliance-grc-2023)
+- [Cybersecurity Foundations](https://www.linkedin.com/learning/cybersecurity-foundations-22006082)
+- [Cybersecurity Linkedin Skill Assessment](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/cybersecurity/cybersecurity-quiz.md)
 
 ## Cybersecurity Foundations
 
@@ -95,6 +101,7 @@
     - OS Kernel
       - Windows DDK, driver developer kit 
       - Deep kernel development, Ring 0
+      - DKOM, direct kernel object modification
   - TDL3, trojan downloader 3
     - Dogma millions cybercrime group
     - Printer driver 
@@ -106,6 +113,30 @@
 ## Discord Servers
 
 ## Subreddits
+
+## PHP Architect Magazine Articles  
+
+- **2017-06** — [Cybersecurity State Of The Union](https://www.phparch.com/magazine/2017-2/june/)
+- **2017-06** — [Nuclear Powered Software Security](https://www.phparch.com/magazine/2017-2/june/)
+- **2018-01** — [Securing Your Site In Development and Beyond](https://www.phparch.com/magazine/2018-2/january/)
+- **2018-02** — [Application-level Data Security](https://www.phparch.com/magazine/2018-2/february/)
+- **2018-09** — [Thinking Like An Attacker](https://www.phparch.com/magazine/2018-2/september/)
+- **2019-03** — [Intrusion Detection](https://www.phparch.com/magazine/2019-2/march/)
+- **2019-06** — [Credentials And Secrets](https://www.phparch.com/magazine/2019-2/june/)
+- **2019-07** — [Defending Against Insider Threats](https://www.phparch.com/magazine/2019-2/july/)
+- **2019-08** — [System Enumeration](https://www.phparch.com/magazine/2019-2/august/)
+- **2019-11** — [Reasonable Encryption](https://www.phparch.com/magazine/2019-2/november/)
+- **2019-12** — [Crypto Streams](https://www.phparch.com/magazine/2019-2/december/)
+- **2020-01** — [Seven Deadly Sins Of Security](https://www.phparch.com/magazine/2020-2/january/)
+- **2020-03** — [Manual TLS](https://www.phparch.com/magazine/2020-2/march/)
+- **2020-11** — [Locking Down Resources](https://www.phparch.com/magazine/2020-2/november/)
+- **2021-04** — [Basics of Password Hashing](https://www.phparch.com/magazine/2021-2/april/)
+- **2021-07** — [Evaluating Password Strength](https://www.phparch.com/magazine/2021-2/july/)
+- **2022-02** — [Getting Started with Cybersecurity](https://www.phparch.com/magazine/2022-2/february/)
+- **2022-05** — [Classifying Ransomware](https://www.phparch.com/magazine/2022-2/may/)
+- **2022-06** — [Assessing Cybersecurity Risks](https://www.phparch.com/magazine/2022-2/june/)
+- **2022-09** — [Surviving Cybersecurity](https://www.phparch.com/magazine/2022-2/september/)
+- **2022-10** — [Cybersecurity Checkup](https://www.phparch.com/magazine/2022-2/october/)
 
 ## Software Engineering Daily Podcast Episodes
 
