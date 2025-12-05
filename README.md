@@ -218,6 +218,49 @@
       - Unlikily
       - Rare
   - Impact
+- NIST SP 80037 Rev.2
+  - Information security categories
+  - Implementation
+  - Assessment system
+  - Common control authorizations
+  - Continuous moinitoring of risk
+  - Stages
+    - Prepare
+      - Roles
+      - Context, strategy
+      - Baseline
+      - Common controls
+      - Prioritzation
+      - Monitoring
+    - Categorize
+      - System characteristics
+      - Impact of attack on confidentiality, integrity, availability
+    - Select
+      - Control selection, tailoring to operating environment
+      - Document allocation
+      - Continuous monitoring
+      - Business approval
+    - Assess
+      - Assessor selection, qualification, knowledge
+      - Development assessment plan
+      - Assessment controls
+      - Reporting on effectivness
+      - Remitigate findings
+      - Development remitigate plan
+    - Authorize
+      - Organizational accountability
+      - Authorization package
+      - Risk anslysis determination
+      - Risk response
+      - Authoirzation decision
+      - Authorization reporting
+    - Monitoring
+      - Situational awareness
+      - Monitor system environment for changes
+      - Carry out assessment
+      - Response to issues
+      - Maintain risk documentation
+      - Report regularly secuaity privacy posture
 
 ## Twitch Channels 
 
