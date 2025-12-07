@@ -316,8 +316,6 @@
 - `2024/05/09` — [Implementing KYC and User Verification with Alex Grinman](https://softwareengineeringdaily.com/2024/05/09/implementing-kyc-and-user-verification-with-alex-grinman/)
 - `2024/05/22` — [Modern SecOps with Maxime Lamothe-Brassard](https://softwareengineeringdaily.com/2024/05/22/modern-secops-with-maxime-lamothe-brassard/)
 - `2024/07/31` — [Shift-Left Security and Code Scanning with Amjad Afanah and Sudipta Mukherjee](https://softwareengineeringdaily.com/2024/07/31/shift-left-security-and-code-scanning-with-amjad-afanah-and-sudipta-mukherjee/)
-- `2024/09/04` — [React 18 at The New York Times with Ilya Gurevich](https://softwareengineeringdaily.com/2024/09/04/react-18-at-the-new-york-times-with-ilya-gurevich/)
-- `2024/09/26` — [Container Security with Matt Moore](https://softwareengineeringdaily.com/2024/09/26/container-security-with-matt-moore/)
 - `2024/11/14` — [Enhancing OAuth Security Using FAPI with Joseph Heenan](https://softwareengineeringdaily.com/2024/11/14/enhancing-oauth-security-using-fapi-with-joseph-heenan/)
 - `2024/12/12` — [Future of Offensive Pentesting with Mark Goodwin](https://softwareengineeringdaily.com/2024/12/12/future-of-offensive-pentesting-mark-goodwin/)
 - `2025/01/16` — [Digital Forensics with Emre Tinaztepe](https://softwareengineeringdaily.com/2025/01/16/digital-forensics-with-emre-tinaztepe/)
