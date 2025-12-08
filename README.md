@@ -60,7 +60,39 @@
 
 ## Threat Modeling
 
-- Process by which potential threats, vulnerabilities, absence of appropriate safeguards, can be identified and enumerated, and countermeasures prioritized
+- [Wikipedia Threat Model](https://en.wikipedia.org/wiki/Threat_model)
+- Process, potential threats, vulnerabilities, absence of appropriate safeguards, identified, enumerated, and countermeasures prioritized
+- Process, identifying, evaluating, and mitigating security threats in a system
+- Helps teams understand what they are building, what can go wrong, and what to do about it
+- Typically performed during design, but valuable throughout the SDLC
+- Reduces security risks early (cheaper than fixing after deployment)
+- Helps prioritize controls based on real-world attack scenarios
+- Ensures alignment across engineering, security, and business teams
+- Improves understanding of system boundaries and data flows
+- **STRIDE (Microsoft)**
+  - Spoofing
+  - Tampering
+  - Repudiation
+  - Information Disclosure
+  - Denial of Service
+  - Elevation of Privilege
+- **DREAD (Risk Scoring)**
+  - Damage
+  - Reproducibility
+  - Eploitability
+  - Affected Users
+  - Discoverability
+- **PASTA (Process for Attack Simulation and Threat Analysis)**
+  - Seven-stage risk-centric model focusing on attacker perspective
+- **Attack Trees**
+  - Visual diagrams showing paths an attacker might take to achieve a goal
+- **VAST (Visual, Agile, and Simple Threat Modeling)**
+  - Scales well for large enterprise environments
+- Microsoft Threat Modeling Tool
+- OWASP Threat Modeling Playbook
+- Threat Dragon (open source)
+- IriusRisk
+- Lucidchart / Draw.io (for DFDs) 
 
 ## Cybersecurity Foundations
 
