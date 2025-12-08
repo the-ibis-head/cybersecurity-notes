@@ -58,6 +58,10 @@
     - Resource exhaustion
     - Ransomware
 
+## Threat Modeling
+
+- Process by which potential threats, vulnerabilities, absence of appropriate safeguards, can be identified and enumerated, and countermeasures prioritized
+
 ## Cybersecurity Foundations
 
 - [Cybersecurity Foundations](https://www.linkedin.com/learning/cybersecurity-foundations-22006082) by [Malcolm Shore](https://www.linkedin.com/in/malcolm-shore-046aa410/)
