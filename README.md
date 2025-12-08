@@ -10,9 +10,13 @@
 
 - Introduced, [Anderson Report](https://csrc.nist.rip/publications/history/ande72.pdf), `1972`
 - Abbreviation coined by Steve Lipner, `1986`
+- All three components must be balanced for a secure, functional system
+- Over-emphasis on one can weaken another
+- For example, heavy authentication may reduce availability or an overly open systems increases confidentiality risks
+- Used as the foundation of security policy, risk assessment, and architectural design
 - `Confidentiality`
-  - Ensures information is accessible only to authorized individuals.
-  - Prevents unauthorized disclosure of data (accidental or intentional).
+  - Ensures information is accessible only to authorized individuals
+  - Prevents unauthorized disclosure of data (accidental or intentional)
   - **Common controls**
     - Encryption (data at rest, data in transit)
     - Access control / IAM (role-based access, least privilege)
@@ -25,8 +29,8 @@
     - Shoulder surfing
     - Insider threats
 - `Integrity`
-  - Guarantees that data is accurate, consistent, and unaltered without authorization.
-  - Ensures trustworthiness of information across storage, processing, and transmission.
+  - Guarantees that data is accurate, consistent, and unaltered without authorization
+  - Ensures trustworthiness of information across storage, processing, and transmission
   - **Common controls**
     - Checksums & hashing (SHA-256)
     - Digital signatures
@@ -39,8 +43,8 @@
     - Faulty updates or misconfigurations
     - Malware modifying system files
 - `Availability`
-  - Ensures that authorized users can access information and systems when needed.
-  - Focuses on uptime, resilience, and continuity.
+  - Ensures that authorized users can access information and systems when needed
+  - Focuses on uptime, resilience, and continuity
   - **Common controls**
     - Redundancy (servers, network paths, power)
     - Backups & disaster recovery plans
