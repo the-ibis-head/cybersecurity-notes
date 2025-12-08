@@ -2,19 +2,12 @@
 > Notes on cybersecurity research and training
 
 - [Google Cybersecurity Certificate](https://grow.google/enroll-certificates/cybersecurity-mid/)
-- [Become a Cybersecurity Professional](https://www.linkedin.com/learning/paths/become-a-cybersecurity-professional)
-- [Complete Guide to Cybersecurity A Practical Approach](https://www.linkedin.com/learning/complete-guide-to-cybersecurity-a-practical-approach)
-- [Cybersecurity Awareness Cybersecurity Terminology](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology)
-- [Cybersecurity Foundations Computer Forensics](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics)
-- [Cybersecurity Foundations Governance Risk and Compliance](https://www.linkedin.com/learning/cybersecurity-foundations-governance-risk-and-compliance-grc-2023)
-- [Cybersecurity Foundations](https://www.linkedin.com/learning/cybersecurity-foundations-22006082)
 - [Cybersecurity Linkedin Skill Assessment](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/cybersecurity/cybersecurity-quiz.md)
 - [Wikipedia Computer security](https://en.wikipedia.org/wiki/Computer_security)
 
 ## Cybersecurity Foundations
 
-- [Cybersecurity Foundations](https://www.linkedin.com/learning/cybersecurity-foundations-22006082)
-- [Malcolm Shore](https://www.linkedin.com/in/malcolm-shore-046aa410/)
+- [Cybersecurity Foundations](https://www.linkedin.com/learning/cybersecurity-foundations-22006082) by [Malcolm Shore](https://www.linkedin.com/in/malcolm-shore-046aa410/)
 - Internet, essential service, cybersecurity is a requirement for everyone
 - Cybersecurity frameworks and standards 
   - ISACA
