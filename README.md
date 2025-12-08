@@ -15,7 +15,7 @@
 
 - [Cybersecurity Foundations](https://www.linkedin.com/learning/cybersecurity-foundations-22006082)
 - [Malcolm Shore](https://www.linkedin.com/in/malcolm-shore-046aa410/)
-- The internet is an essential service, so cybersecurity is/should be a requirement for everyone
+- Internet, essential service, cybersecurity is a requirement for everyone
 - Cybersecurity frameworks and standards 
   - ISACA
   - COBIT
