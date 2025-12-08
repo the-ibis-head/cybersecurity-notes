@@ -4,9 +4,12 @@
 - [Google Cybersecurity Certificate](https://grow.google/enroll-certificates/cybersecurity-mid/)
 - [Cybersecurity Linkedin Skill Assessment](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/cybersecurity/cybersecurity-quiz.md)
 - [Wikipedia Computer security](https://en.wikipedia.org/wiki/Computer_security)
+- [Wikipedia Information security](https://en.wikipedia.org/wiki/Information_security)
 
 ## CIA Triad
 
+- Introduced, [Anderson Report](https://csrc.nist.rip/publications/history/ande72.pdf), `1972`
+- Abbreviation coined by Steve Lipner, `1986`
 - `Confidentiality`
   - Ensures information is accessible only to authorized individuals.
   - Prevents unauthorized disclosure of data (accidental or intentional).
