@@ -5,6 +5,52 @@
 - [Cybersecurity Linkedin Skill Assessment](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/cybersecurity/cybersecurity-quiz.md)
 - [Wikipedia Computer security](https://en.wikipedia.org/wiki/Computer_security)
 
+## CIA Triad
+
+- `Confidentiality`
+  - Ensures information is accessible only to authorized individuals.
+  - Prevents unauthorized disclosure of data (accidental or intentional).
+  - **Common controls**
+    - Encryption (data at rest, data in transit)
+    - Access control / IAM (role-based access, least privilege)
+    - Network segmentation
+    - Multi-factor authentication (MFA)
+    - Data classification policies
+  - **Threats include**
+    - Data breaches
+    - Eavesdropping / sniffing
+    - Shoulder surfing
+    - Insider threats
+- `Integrity`
+  - Guarantees that data is accurate, consistent, and unaltered without authorization.
+  - Ensures trustworthiness of information across storage, processing, and transmission.
+  - **Common controls**
+    - Checksums & hashing (SHA-256)
+    - Digital signatures
+    - Version control systems
+    - Audit logs
+    - Input validation
+  - **Threats include**
+    - Data tampering
+    - Man-in-the-middle (MITM) attacks
+    - Faulty updates or misconfigurations
+    - Malware modifying system files
+- `Availability`
+  - Ensures that authorized users can access information and systems when needed.
+  - Focuses on uptime, resilience, and continuity.
+  - **Common controls**
+    - Redundancy (servers, network paths, power)
+    - Backups & disaster recovery plans
+    - Load balancing
+    - DDoS protection
+    - System monitoring & alerting
+  - **Threats include**
+    - Distributed denial-of-service (DDoS) attacks
+    - Hardware failures
+    - Natural disasters
+    - Resource exhaustion
+    - Ransomware
+
 ## Cybersecurity Foundations
 
 - [Cybersecurity Foundations](https://www.linkedin.com/learning/cybersecurity-foundations-22006082) by [Malcolm Shore](https://www.linkedin.com/in/malcolm-shore-046aa410/)
