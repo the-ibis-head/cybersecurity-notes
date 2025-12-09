@@ -3,18 +3,22 @@
 
 - [Google Cybersecurity Certificate](https://grow.google/enroll-certificates/cybersecurity-mid/)
 - [Cybersecurity Linkedin Skill Assessment](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/cybersecurity/cybersecurity-quiz.md)
-- [Wikipedia Computer security](https://en.wikipedia.org/wiki/Computer_security)
-- [Wikipedia Information security](https://en.wikipedia.org/wiki/Information_security)
+- [Wikipedia Computer Security](https://en.wikipedia.org/wiki/Computer_security)
+- [Wikipedia Information Security](https://en.wikipedia.org/wiki/Information_security)
+
+## Foundations
+
+- Protecting systems, networks, and data from digital attacks.
 
 ## CIA Triad
 
-- Introduced, [Anderson Report](https://csrc.nist.rip/publications/history/ande72.pdf), `1972`
+- [Anderson Report](https://csrc.nist.rip/publications/history/ande72.pdf), `1972`
 - Abbreviation coined by Steve Lipner, `1986`
 - All three components must be balanced for a secure, functional system
 - Over-emphasis on one can weaken another
 - For example, heavy authentication may reduce availability or an overly open systems increases confidentiality risks
 - Used as the foundation of security policy, risk assessment, and architectural design
-- `Confidentiality`
+- **Confidentiality**
   - Ensures information is accessible only to authorized individuals
   - Prevents unauthorized disclosure of data (accidental or intentional)
   - **Common controls**
@@ -93,6 +97,191 @@
 - Threat Dragon (open source)
 - IriusRisk
 - Lucidchart / Draw.io (for DFDs) 
+
+## Computer Networking
+
+- **IP Addressing**, subnets, CIDR
+- **TCP vs UDP**
+- **Important Protocols**
+  - DNS, DHCP
+  - HTTP/HTTPS
+  - SSH
+  - SMTP/IMAP
+- **Network Devices**
+  - Routers
+  - Switches
+  - Firewalls
+  - Load balancers
+- **Monitoring Tools**
+  - Wireshark
+  - tcpdump
+  - Zeek
+  - Snort or Suricata
+
+## Incident Response and Monitoring
+
+- **Incident Response Lifecycle**
+  - Preparation
+  - Identification
+  - Containment
+  - Eradication
+  - Recovery
+  - Lessons learned
+- **Monitoring and Logging**
+  - SIEM systems (Splunk, Elastic, Sentinel)
+  - Sysmon
+  - Auditd
+- **Forensics Basics**
+  - Memory dumps
+  - Disk imaging
+  - Log analysis
+
+## Cryptography and Encryption
+
+- **Core Concepts**
+  - **Cryptography**: Methods used to secure communication and protect data.
+  - **Encryption**: Transforming plaintext into ciphertext using keys.
+  - **Decryption**: The reverse operation to obtain plaintext.
+  - **Keys**: Secret values used to encrypt and decrypt data.
+  - **Hashing**: One-way transformation for verifying integrity.
+
+### Symmetric Encryption
+
+- Uses the same key for encryption and decryption
+- Very fast and widely used
+- Common algorithms: AES, DES, 3DES
+- **Typical uses:**
+  - Disk encryption
+  - VPNs
+  - TLS data encryption
+
+### Asymmetric Encryption
+
+- Uses a public key for encryption and a private key for decryption
+- Slower, used for key exchange and signatures
+- Algorithms: RSA, ECC
+- **Common uses:**
+  - TLS handshakes
+  - Digital signatures
+  - Secure key exchange
+
+### Hashing
+
+- One-way, deterministic, fixed-length output
+- **Used for:**
+  - Password storage
+  - File integrity checks
+  - Digital signatures
+- **Algorithms:**
+  - SHA-256
+  - SHA-3
+  - BLAKE2
+  - Importance of salting hashed passwords
+
+## Cloud Security
+
+- **Shared Responsibility Model**
+- **Common Risks**
+  - Misconfigurations
+  - Insecure APIs
+  - Compromised credentials
+- **Cloud IAM**
+  - AWS IAM
+  - Azure AD
+  - GCP IAM
+- **Security Tools**
+  - AWS GuardDuty, CloudTrail
+  - Azure Security Center
+  - GCP Security Command Center
+
+## Operating System Security
+
+- **Linux Security Concepts**
+  - File permissions and access controls
+  - SELinux or AppArmor
+  - Logging and auditing (`journalctl`, `auditd`)
+- **Windows Security Concepts**
+  - Active Directory basics
+  - Group Policy Objects
+  - Windows Event Viewer
+- **System Hardening**
+  - Remove unused services
+  - Apply updates regularly
+  - Principle of least privilege
+
+## Linux Security
+
+### Linux Permissions
+
+- **Permission Types**
+  - `r` (read), `w` (write), `x` (execute)
+- **Permission Categories**
+  - User (owner)
+  - Group
+  - Others
+- **Viewing Permissions**
+  - `ls -l`
+- **Changing Permissions**
+  - `chmod` (symbolic and numeric modes)
+  - Numeric examples:
+    - `755` = rwx r-x r-x
+    - `644` = rw- r-- r--
+  - Symbolic examples:
+      - `chmod u+x file`
+      - `chmod g-w file`
+- **Changing Ownership**
+  - `chown user:group file`
+  - `chgrp group file`
+- **Special Permissions**
+  - **SUID** — run with owner's privileges
+  - **SGID** — run with group privileges
+  - **Sticky bit** — restrict deletion in shared directories
+
+### Users and Groups
+
+- **User Management**
+  - `/etc/passwd`, `/etc/shadow`
+  - `useradd`, `usermod`, `passwd`
+- **Group Management**
+  - `/etc/group`
+  - `groupadd`, `groupdel`, `gpasswd`
+- **Privilege Escalation Tools**
+  - `sudo`
+  - Polkit
+
+### Processes
+
+- **Viewing Processes**
+  - `ps aux`
+  - `top` or `htop`
+  - `pgrep`, `pidof`
+- **Managing Processes**
+  - `kill`, `killall`
+  - `nice`, `renice`
+  - `systemctl` for service management
+- **Linux Process Concepts**
+  - Parent/child relationships
+  - Signals (`SIGTERM`, `SIGKILL`)
+  - Daemons
+
+## Web and API Security
+
+- **OWASP Top 10 Concepts**
+  - Injection attacks
+  - Broken authentication
+  - Sensitive data exposure
+  - Insecure deserialization
+  - SSRF
+- **Common Vulnerabilities**
+  - XSS
+  - CSRF
+  - Directory traversal
+  - Broken access control
+- **Secure Development Practices**
+  - Input validation
+  - Output encoding
+  - Secrets management
+  - Prepared statements for database queries
 
 ## Cybersecurity Foundations
 
