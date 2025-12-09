@@ -1,5 +1,5 @@
 # Cybersecurity
-> Notes on cybersecurity
+> Compiled notes on cybersecurity
 
 - [Google Cybersecurity Certificate](https://grow.google/enroll-certificates/cybersecurity-mid/)
 - [Cybersecurity Linkedin Skill Assessment](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/cybersecurity/cybersecurity-quiz.md)
